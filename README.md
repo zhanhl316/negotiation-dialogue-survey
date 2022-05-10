@@ -11,10 +11,10 @@ Category on the negotiation dialogue papers
 - **Dialogue Act-based Breakdown Detection in Negotiation Dialogues** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.63.pdf)] [[data](https://github.com/gucci-j/negotiation-breakdown-detection)]  
 
 
-## Method
+## Methods
 
 
 ## Evaluation
 
 
-## Application
+## Applications
