@@ -17,8 +17,6 @@ Category on the negotiation dialogue papers
 ## Methods
 
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)]
-- ****
-
 
 
 - **Reinforcement Learning of Multi-Issue Negotiation Dialogue Policies** (SIGDIAL 2015) [[paper](https://aclanthology.org/W15-4621.pdf)]
@@ -31,7 +29,7 @@ Category on the negotiation dialogue papers
 - **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]
 - **Response Generation in Collaborative Negotiation** (ACL 1995) [[paper](https://aclanthology.org/P95-1019.pdf)]
 - **Modeling Negotiation Subdialogues** (ACL 1992) [[paper](https://aclanthology.org/P92-1025.pdf)]
-- 
+
  
 - **Meaning Negotiation in Dialogue** (COLING 1982) [[paper](https://aclanthology.org/C82-2044.pdf)]
 
