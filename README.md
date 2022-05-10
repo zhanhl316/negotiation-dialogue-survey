@@ -3,7 +3,7 @@ Category on the negotiation dialogue papers
 
 
 ## Datasets
-***
+
 - **Deal or No Deal? End-to-End Learning for Negotiation Dialogues** (EMNLP 2017) [[paper](https://arxiv.org/pdf/1706.05125.pdf)] [[data](https://github.com/facebookresearch/end-to-end-negotiator)]
 - **Decoupling Strategy and Generation in Negotiation Dialogues** (EMNLP 2018) [[paper](https://aclanthology.org/D18-1256.pdf)] [[data](https://stanfordnlp.github.io/cocoa/)]
 - **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems**  (NAACL 2021) [[paper](https://aclanthology.org/2021.naacl-main.254.pdf)] [[data](https://github.com/kushalchawla/CaSiNo)]  
@@ -11,7 +11,7 @@ Category on the negotiation dialogue papers
 
 
 ## Method
----
+
 
 ## Evaluation
 
