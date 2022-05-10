@@ -10,6 +10,7 @@ Category on the negotiation dialogue papers
 -  **A Dynamic Strategy Coach for Effective Negotiation** (SIGDIAL 2019) [[paper](https://aclanthology.org/W19-5943.pdf)] [[data](https://github.com/zhouyiheng11/Negotiation-Coach)]
 - **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems**  (NAACL 2021) [[paper](https://aclanthology.org/2021.naacl-main.254.pdf)] [[data](https://github.com/kushalchawla/CaSiNo)]  
 - **Dialogue Act-based Breakdown Detection in Negotiation Dialogues** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.63.pdf)] [[data](https://github.com/gucci-j/negotiation-breakdown-detection)]  
+- **Towards Emotional Support Dialog Systems** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.269.pdf)] [[data](https://github.com/thu-coai/Emotional-Support-Conversation)]
 
 - **Initiative Taking in Negotiation** (SIGDIAL 2014) [[paper](https://aclanthology.org/W14-4325.pdf)] [no data link]
 
@@ -21,11 +22,25 @@ Category on the negotiation dialogue papers
 
 
 - **Reinforcement Learning of Multi-Issue Negotiation Dialogue Policies** (SIGDIAL 2015) [[paper](https://aclanthology.org/W15-4621.pdf)]
+- **Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies** (ACL 2014) [[paper](https://aclanthology.org/P14-1047.pdf)]
 - **Reinforcement Learning of Two-Issue Negotiation Dialogue Policies** (SIGDIAL 2013) [[paper](https://aclanthology.org/W13-4016.pdf)]
+- **Grounding Strategic Conversation: Using negotiation dialogues to predict trades in a win-lose game** (EMNLP 2013) [[paper](https://aclanthology.org/D13-1035.pdf)]
 - **Negotiating causal implicatures** (SIGDIAL 2010) [[paper](https://aclanthology.org/W10-4312.pdf)]
+
+
+- **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]
+- **Response Generation in Collaborative Negotiation** (ACL 1995) [[paper](https://aclanthology.org/P95-1019.pdf)]
+- **Modeling Negotiation Subdialogues** (ACL 1992) [[paper](https://aclanthology.org/P92-1025.pdf)]
+- 
  
+- **Meaning Negotiation in Dialogue** (COLING 1982) [[paper](https://aclanthology.org/C82-2044.pdf)]
 
 ## Evaluation
 
+- **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
 
+
+
+
+ 
 ## Applications
