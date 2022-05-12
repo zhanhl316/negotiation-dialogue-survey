@@ -16,6 +16,8 @@ Category on the negotiation dialogue papers
 
 ## Methods
 
+
+- **DIALOGRAPH: INCORPORATING INTERPRETABLESTRATEGY-GRAPH NETWORKS INTO NEGOTIATION DIALOGUES** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)]
 
 
