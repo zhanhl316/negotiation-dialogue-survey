@@ -21,6 +21,7 @@ Category on the negotiation dialogue papers
 - **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)]
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)]
+- **A deep reinforcement learning-based agent for negotiation with multiple communication channels** (ICTAI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9643383)] [[code]]
 
 - **End-to-end trainable non-collaborative dialog system.** (AAAI 2021) [[paper]()]
 - **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)]
