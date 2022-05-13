@@ -56,4 +56,16 @@ Category on the negotiation dialogue papers
 
 
  
-## Applications
+## Survey Papers in Other Dialogue Tracks
+- **A Survey on Dialogue Systems: Recent Advances and New Frontiers** (KDD 2019) [[paper](https://www.kdd.org/exploration_files/19-2-Article3.pdf)]
+- **Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey** (2021) [[paper](https://arxiv.org/pdf/2105.04387.pdf)]
+- **Survey on evaluation methods for dialogue systems** (AI Review 2021) [[paper](https://link.springer.com/article/10.1007/s10462-020-09866-x)]
+- **A survey on empathetic dialogue systems** (Information Fusion 2021) [[paper](https://sentic.net/empathetic-dialogue-systems.pdf)]
+- **A survey of response generation of dialogue systems** (IJCIE 2020) [[paper](https://publications.waset.org/10011629/a-survey-of-response-generation-of-dialogue-systems)]
+- **Who Says What to Whom: A Survey of Multi-Party Conversations** (IJCAI 2022 Survey Track) [[paper]()]
+- **A Survey on Dialogue Summarization: Recent Advances and New Frontiers** (IJCAI 2022 Survey Track) [[paper](https://arxiv.org/pdf/2107.03175.pdf)]
+- **Challenges in Building Intelligent Open-domain Dialog Systems** (TOIS 2020) [[paper](https://arxiv.org/pdf/1905.05709.pdf)]
+- **Recent advances and challenges in task-oriented dialog systems** (Science China 2020) [[paper](https://link.springer.com/article/10.1007/s11431-020-1692-3)]
+- **A Survey of Document Grounded Dialogue Systems (DGDS)** (2019) [[paper](https://arxiv.org/pdf/2004.13818.pdf)]
+- **A Survey of Knowledge Sources in Dialogue Systems** (1999) [[paper](https://ep.liu.se/ea/cis/1999/026/cis99026.pdf)]
+- **A Survey on Spoken Language Understanding: Recent Advances and New Frontiers** (IJCAI 2021 Survey Track) [[paper](https://arxiv.org/abs/2103.03095)]
