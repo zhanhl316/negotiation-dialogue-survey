@@ -15,6 +15,8 @@ Category on the negotiation dialogue papers
 
 - **Initiative Taking in Negotiation** (SIGDIAL 2014) [[paper](https://aclanthology.org/W14-4325.pdf)] [no data link]
 
+- (Negotiation Dialogue) **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** (ACL 2019) [[paper](https://arxiv.org/pdf/1906.06725.pdf)][[data](https://gitlab.com/ucdavisnlp/persuasionforgood)]
+
 ## Methods
 
 - **Computationally modelling resisting strategies in persuasive conversations** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)][[code](https://github.com/americast/resper)]
