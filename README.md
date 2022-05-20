@@ -45,7 +45,7 @@ Category on the negotiation dialogue papers
 - **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]
 - **Response Generation in Collaborative Negotiation** (ACL 1995) [[paper](https://aclanthology.org/P95-1019.pdf)]
 - **Modeling Negotiation Subdialogues** (ACL 1992) [[paper](https://aclanthology.org/P92-1025.pdf)]
-
+- **Multi-party, multiissue, multi-strategy negotiation for multi-modal virtual agents.** (In International Workshop on Intelligent Virtual Agent 2008) [[paper](https://link.springer.com/chapter/10.1007/978-3-540-85483-8_12)]
 - **Negotiating rationally** (1993, citation>1000) [[paper](https://books.google.com.au/books?hl=zh-CN&lr=&id=Ua7sAgAAQBAJ&oi=fnd&pg=PR7&dq=Negotiating+rationally.+1993&ots=BX50I0akaZ&sig=BXTGdHK9pbyVdeqo4-UXWfQyFjM#v=onepage&q=Negotiating%20rationally.%201993&f=false)]
  
 - **Meaning Negotiation in Dialogue** (COLING 1982) [[paper](https://aclanthology.org/C82-2044.pdf)]
