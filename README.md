@@ -53,7 +53,7 @@ Category on the negotiation dialogue papers
 ## Evaluation
 
 - **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
-
+- **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents** (EACL 2017) [[paper](https://aclanthology.org/E17-2077.pdf)]
 
 
 
