@@ -19,6 +19,7 @@ Category on the negotiation dialogue papers
 
 ## Methods
 
+- **Opponent Modeling in Negotiation Dialogues by Related Data Adaptation** (NAACL 2022 findings) [[paper](https://arxiv.org/abs/2205.00344)][[code](https://github.com/kushalchawla/opponent-modeling)]
 - **Computationally modelling resisting strategies in persuasive conversations** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)][[code](https://github.com/americast/resper)]
 - **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)]
