@@ -60,6 +60,7 @@ Category on the negotiation dialogue papers
 
  
 ## Survey Papers in Other Dialogue Tracks
+- **The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications** （ACL 2022）[[paper](https://aclanthology.org/2022.acl-long.458.pdf)]
 - **A Survey on Dialogue Systems: Recent Advances and New Frontiers** (KDD 2019) [[paper](https://www.kdd.org/exploration_files/19-2-Article3.pdf)]
 - **Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey** (2021) [[paper](https://arxiv.org/pdf/2105.04387.pdf)]
 - **Survey on evaluation methods for dialogue systems** (AI Review 2021) [[paper](https://link.springer.com/article/10.1007/s10462-020-09866-x)]
