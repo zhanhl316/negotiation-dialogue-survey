@@ -77,6 +77,9 @@ Category on the negotiation dialogue papers
 
 ## Persuasive Negotiation (Persuasion)
 
+- **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** (Arxiv 2022) [[paper](https://arxiv.org/pdf/2203.07657.pdf)]
+- **Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2021.findings-emnlp.295.pdf)] [[code](https://github.com/wyshi/consistency)]
+- **Hierarchical Argumentation Structure for Persuasive Argumentative Dialogue Generation** (IEICE TRANS 2020) [[paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/2/E103.D_2019EDP7147/_pdf)] 
 - **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)]
 - **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios]
 - **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)]
@@ -84,8 +87,9 @@ Category on the negotiation dialogue papers
 - **A Corpus for Modeling User and Language Effects in Argumentation on Online Debating** (ACL 2019) [[paper](https://aclanthology.org/P19-1057.pdf)] [[data](https://esdurmus.github.io/ddo.md)]
 - **Analyzing the Persuasive Effect of Style in News Editorial Argumentation** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.287.pdf)]
 - **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)]
-
-
+- **Persuasion: Theory and research** [[Book](http://www.uky.edu/~ngrant/CJT780/readings/Day%201/cjt780/OKeefe2004.pdf)]
+- **Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions** (WWW 2016) [[paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883081)]
+- **Perceived effectiveness of interpersonal persuasion strategies in computer-mediated communication** [[paper](https://www.sciencedirect.com/science/article/pii/S0747563203000062)] (Computer Scenario)
 
  
 ## Survey Papers in Other Dialogue Tracks
