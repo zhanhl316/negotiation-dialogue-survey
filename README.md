@@ -80,6 +80,7 @@ Category on the negotiation dialogue papers
 - **Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.632.pdf)]
 - **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** (Arxiv 2022) [[paper](https://arxiv.org/pdf/2203.07657.pdf)]
 - **Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2021.findings-emnlp.295.pdf)] [[code](https://github.com/wyshi/consistency)]
+- **Understanding User Resistance Strategies in Persuasive Conversations** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2020.findings-emnlp.431.pdf)]
 - **Hierarchical Argumentation Structure for Persuasive Argumentative Dialogue Generation** (IEICE TRANS 2020) [[paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/2/E103.D_2019EDP7147/_pdf)] 
 - **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)]
 - **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios]
