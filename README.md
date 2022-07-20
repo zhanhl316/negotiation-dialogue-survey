@@ -50,11 +50,25 @@ Category on the negotiation dialogue papers
 - **Negotiating rationally** (1993, citation>1000) [[paper](https://books.google.com.au/books?hl=zh-CN&lr=&id=Ua7sAgAAQBAJ&oi=fnd&pg=PR7&dq=Negotiating+rationally.+1993&ots=BX50I0akaZ&sig=BXTGdHK9pbyVdeqo4-UXWfQyFjM#v=onepage&q=Negotiating%20rationally.%201993&f=false)]
  
 - **Meaning Negotiation in Dialogue** (COLING 1982) [[paper](https://aclanthology.org/C82-2044.pdf)]
+- **Negotiation as a Challenge Problem for Virtual Humans** [[paper](https://www.researchgate.net/profile/Jonathan-Gratch-2/publication/282671174_Negotiation_as_a_Challenge_Problem_for_Virtual_Humans/links/561aa3b908aea8036722b651/Negotiation-as-a-Challenge-Problem-for-Virtual-Humans.pdf)]
 
 ## Evaluation
 
 - **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
 - **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents** (EACL 2017) [[paper](https://aclanthology.org/E17-2077.pdf)]
+
+
+## Relevant to Negotiation
+
+- **Essentials of negotiation** [[Book](http://proz-x.com/stephanlangdon/Academic/Neg/Essentials%20of%20Negotiation%20-%20Roy%20J.%20Lewicki,%20Bruce%20Barry.pdf)]
+- ** Iamhaggler: A negotiation agent for complex environments** [[Book](https://link.springer.com/content/pdf/10.1007/978-3-642-24696-8.pdf)]
+- **On the cultural basis of gender differences in negotiation** (Exp Econ 2018) [[paper](https://link.springer.com/content/pdf/10.1007/s10683-017-9547-y.pdf)]
+- **Learning about the opponent in automated bilateral negotiation: a comprehensive survey of opponent modeling techniques** (Auto Agent Multi-Agent System 2016) [[paper](https://link.springer.com/content/pdf/10.1007/s10458-015-9309-1.pdf)]
+- **Toward Natural Turn-Taking in a Virtual Human Negotiation Agent** (AAAI Spring Symposium 2015) [[paper](https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10335/10100)]
+- ** The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper](https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]
+- **Comparing The Accuracy of Frequentist and Bayesian Models in Human-Agent Negotiation** (the 21st ACM International Conference on Intelligent Virtual Agents 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3472306.3478354)]
+- ** Assessing common errors students make when negotiating** (the 19st ACM International Conference on Intelligent Virtual Agents 2019) [[paper](https://dl.acm.org/doi/pdf/10.1145/3308532.3329470)]
+- **Detecting User’s Likes and Dislikes for a Virtual Negotiating Agent** (ICMI 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243024)]
 
 
 
