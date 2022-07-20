@@ -5,7 +5,7 @@ Category on the negotiation dialogue papers
 ## Datasets
 
 - **Discourse Structure and Dialogue Acts in Multiparty Dialogue: the STAC Corpus** (LREC 2016) [[paper](https://aclanthology.org/L16-1432.pdf)] [[data](https://aclanthology.org/attachments/D/D15/D15-1109.Attachment.zip)]
-- **Deal or No Deal? End-to-End Learning for Negotiation Dialogues** (EMNLP 2017) [[paper](https://arxiv.org/pdf/1706.05125.pdf)] [[data](https://github.com/facebookresearch/end-to-end-negotiator)]
+- **Deal or No Deal? Learning for Negotiation Dialogues** (EMNLP 2017) [[paper](https://arxiv.org/pdf/1706.05125.pdf)] [[data](https://github.com/facebookresearch/end-to-end-negotiator)]
 - **Decoupling Strategy and Generation in Negotiation Dialogues** (EMNLP 2018) [[paper](https://aclanthology.org/D18-1256.pdf)] [[data](https://stanfordnlp.github.io/cocoa/)]
 -  **A Dynamic Strategy Coach for Effective Negotiation** (SIGDIAL 2019) [[paper](https://aclanthology.org/W19-5943.pdf)] [[data](https://github.com/zhouyiheng11/Negotiation-Coach)]
 -  **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)]
@@ -16,6 +16,7 @@ Category on the negotiation dialogue papers
 - **Initiative Taking in Negotiation** (SIGDIAL 2014) [[paper](https://aclanthology.org/W14-4325.pdf)] [no data link]
 
 - (Persuasion Dialogue) **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** (ACL 2019) [[paper](https://arxiv.org/pdf/1906.06725.pdf)][[data](https://gitlab.com/ucdavisnlp/persuasionforgood)]
+- **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios]
 
 ## Methods
 
@@ -42,7 +43,7 @@ Category on the negotiation dialogue papers
 - **Negotiating causal implicatures** (SIGDIAL 2010) [[paper](https://aclanthology.org/W10-4312.pdf)]
 
 - **Getting to yes: Negotiating agreement without giving in.** [book]
-
+- **Reinforcement Learning of Argumentation Dialogue Policies in Negotiation** (INTERSPEECH 2011) [[paper](https://kgeorgila.github.io/publications/georgila_interspeech11.pdf)]
 - **Arguments, Dialogue, and Negotiation** (Academia 2020) [[paper](https://d1wqtxts1xzle7.cloudfront.net/30687575/AmgoudParsonsMaudetECAI2000-with-cover-page-v2.pdf?Expires=1652160854&Signature=WkneuVUrjuFTPbYNNEVOKVipmvy1~RurCgykDQTzMc70DpdKW~KDnNaqOzQtaedgNlu32XTz0QUAHzMhkFuK7qOkrjoubt6HTpJKo~vi7Sk53tGQsJiiHJd7yxj4~l3zTvovlkQR2EZpT9U9cnLUEDUOM1jeR9ADexEXskVlA-whqaihqkU0md6y0t8pML9dne9GCC6V3xvwcyJTJH2-lpddPxrKqEPnsLkOQP9dXHvl9c7yDZpN6A5qS8JnmqMiCMtlZov~yzaVoVxCvFPyBzY~iEMOxzN9xB30KHUXFRLcAIIThwwe4HpU6C2crRJNGREVNFYnq8-JyFR0siLwmQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 - **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]
 - **Response Generation in Collaborative Negotiation** (ACL 1995) [[paper](https://aclanthology.org/P95-1019.pdf)]
@@ -57,6 +58,8 @@ Category on the negotiation dialogue papers
 
 - **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
 - **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents** (EACL 2017) [[paper](https://aclanthology.org/E17-2077.pdf)]
+- **Evaluation of a Fully Automatic Cooperative Persuasive Dialogue System** [[paper](https://link.springer.com/chapter/10.1007/978-3-319-19291-8_15)]
+- 
 
 
 ## Relevant to Negotiation
@@ -75,7 +78,12 @@ Category on the negotiation dialogue papers
 ## Persuasive Negotiation (Persuasion)
 
 - **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)]
-- **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)]
+- **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios]
+- **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)]
+- **Exploring the Role of Prior Beliefs for Argument Persuasion** (NAACL 2018) [[paper](https://aclanthology.org/N18-1094.pdf)]
+- **A Corpus for Modeling User and Language Effects in Argumentation on Online Debating** (ACL 2019) [[paper](https://aclanthology.org/P19-1057.pdf)] [[data](https://esdurmus.github.io/ddo.md)]
+- **Analyzing the Persuasive Effect of Style in News Editorial Argumentation** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.287.pdf)]
+- **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)]
 
 
 
