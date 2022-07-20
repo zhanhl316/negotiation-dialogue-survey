@@ -72,6 +72,12 @@ Category on the negotiation dialogue papers
 - **Detecting User’s Likes and Dislikes for a Virtual Negotiating Agent** (ICMI 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243024)]
 
 
+## Persuasive Negotiation (Persuasion)
+
+- **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)]
+- **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)]
+
+
 
  
 ## Survey Papers in Other Dialogue Tracks
