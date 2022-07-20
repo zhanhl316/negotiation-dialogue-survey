@@ -25,10 +25,11 @@ Category on the negotiation dialogue papers
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)]
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)]
 - **A deep reinforcement learning-based agent for negotiation with multiple communication channels** (ICTAI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9643383)] [[code]]
+- **Towards Emotion-Aware Agents For Negotiation Dialogues** (20219th ICACII) [[paper](https://arxiv.org/pdf/2107.13165.pdf)]
 
 - **End-to-end trainable non-collaborative dialog system.** (AAAI 2021) [[paper]()]
 - **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)]
-
+- **Learning Goal-oriented Dialogue Policy with Opposite Agent Awareness** (AACL 2020) [[paper](https://aclanthology.org/2020.aacl-main.16.pdf)]
 
 - **SOGO: A Social Intelligent Negotiation Dialogue System** (IVA 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3267851.3267880)]
 
@@ -61,19 +62,20 @@ Category on the negotiation dialogue papers
 ## Relevant to Negotiation
 
 - **Essentials of negotiation** [[Book](http://proz-x.com/stephanlangdon/Academic/Neg/Essentials%20of%20Negotiation%20-%20Roy%20J.%20Lewicki,%20Bruce%20Barry.pdf)]
-- ** Iamhaggler: A negotiation agent for complex environments** [[Book](https://link.springer.com/content/pdf/10.1007/978-3-642-24696-8.pdf)]
+- **Iamhaggler: A negotiation agent for complex environments** [[Book](https://link.springer.com/content/pdf/10.1007/978-3-642-24696-8.pdf)]
 - **On the cultural basis of gender differences in negotiation** (Exp Econ 2018) [[paper](https://link.springer.com/content/pdf/10.1007/s10683-017-9547-y.pdf)]
 - **Learning about the opponent in automated bilateral negotiation: a comprehensive survey of opponent modeling techniques** (Auto Agent Multi-Agent System 2016) [[paper](https://link.springer.com/content/pdf/10.1007/s10458-015-9309-1.pdf)]
 - **Toward Natural Turn-Taking in a Virtual Human Negotiation Agent** (AAAI Spring Symposium 2015) [[paper](https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10335/10100)]
-- ** The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper](https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]
+- **The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper](https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]
 - **Comparing The Accuracy of Frequentist and Bayesian Models in Human-Agent Negotiation** (the 21st ACM International Conference on Intelligent Virtual Agents 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3472306.3478354)]
-- ** Assessing common errors students make when negotiating** (the 19st ACM International Conference on Intelligent Virtual Agents 2019) [[paper](https://dl.acm.org/doi/pdf/10.1145/3308532.3329470)]
+- **Assessing common errors students make when negotiating** (the 19st ACM International Conference on Intelligent Virtual Agents 2019) [[paper](https://dl.acm.org/doi/pdf/10.1145/3308532.3329470)]
 - **Detecting User’s Likes and Dislikes for a Virtual Negotiating Agent** (ICMI 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243024)]
 
 
 
  
 ## Survey Papers in Other Dialogue Tracks
+- **A Survey on Recent Advances and Challenges in Reinforcement Learning Methods for Task-Oriented Dialogue Policy Learning** (2022) [[paper](https://arxiv.org/pdf/2202.13675.pdf)]
 - **The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications** （ACL 2022）[[paper](https://aclanthology.org/2022.acl-long.458.pdf)]
 - **A Survey on Dialogue Systems: Recent Advances and New Frontiers** (KDD 2019) [[paper](https://www.kdd.org/exploration_files/19-2-Article3.pdf)]
 - **Recent Advances in Deep Learning Based Dialogue Systems: A Systematic Survey** (2021) [[paper](https://arxiv.org/pdf/2105.04387.pdf)]
