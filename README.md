@@ -41,7 +41,7 @@ Category on the negotiation dialogue papers
 - **Grounding Strategic Conversation: Using negotiation dialogues to predict trades in a win-lose game** (EMNLP 2013) [[paper](https://aclanthology.org/D13-1035.pdf)]
 - **Negotiating causal implicatures** (SIGDIAL 2010) [[paper](https://aclanthology.org/W10-4312.pdf)]
 
-- **Getting to yes: Negotiating agreement without giving in.**
+- **Getting to yes: Negotiating agreement without giving in.** [book]
 
 - **Arguments, Dialogue, and Negotiation** (Academia 2020) [[paper](https://d1wqtxts1xzle7.cloudfront.net/30687575/AmgoudParsonsMaudetECAI2000-with-cover-page-v2.pdf?Expires=1652160854&Signature=WkneuVUrjuFTPbYNNEVOKVipmvy1~RurCgykDQTzMc70DpdKW~KDnNaqOzQtaedgNlu32XTz0QUAHzMhkFuK7qOkrjoubt6HTpJKo~vi7Sk53tGQsJiiHJd7yxj4~l3zTvovlkQR2EZpT9U9cnLUEDUOM1jeR9ADexEXskVlA-whqaihqkU0md6y0t8pML9dne9GCC6V3xvwcyJTJH2-lpddPxrKqEPnsLkOQP9dXHvl9c7yDZpN6A5qS8JnmqMiCMtlZov~yzaVoVxCvFPyBzY~iEMOxzN9xB30KHUXFRLcAIIThwwe4HpU6C2crRJNGREVNFYnq8-JyFR0siLwmQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 - **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]
