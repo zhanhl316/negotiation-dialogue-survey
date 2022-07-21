@@ -88,8 +88,8 @@ Category on the negotiation dialogue papers
 - **Exploring the Role of Prior Beliefs for Argument Persuasion** (NAACL 2018) [[paper](https://aclanthology.org/N18-1094.pdf)]  (Haolan)
 - **A Corpus for Modeling User and Language Effects in Argumentation on Online Debating** (ACL 2019) [[paper](https://aclanthology.org/P19-1057.pdf)] [[data](https://esdurmus.github.io/ddo.md)]  (Haolan & Zhuang)
 - **Analyzing the Persuasive Effect of Style in News Editorial Argumentation** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.287.pdf)] (Haolan & Tao)
-- **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)]
-- **Persuasion: Theory and research** [[Book](http://www.uky.edu/~ngrant/CJT780/readings/Day%201/cjt780/OKeefe2004.pdf)] (Zhuang)
+- **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)] (Zhuang)
+- **Persuasion: Theory and research** [[Book](http://www.uky.edu/~ngrant/CJT780/readings/Day%201/cjt780/OKeefe2004.pdf)] 
 - **Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions** (WWW 2016) [[paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883081)]  (Haolan)
 - **Perceived effectiveness of interpersonal persuasion strategies in computer-mediated communication** [[paper](https://www.sciencedirect.com/science/article/pii/S0747563203000062)] (Computer Scenario) ( Haolan & Yufei)
 
