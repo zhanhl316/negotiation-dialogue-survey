@@ -69,7 +69,7 @@ Category on the negotiation dialogue papers
 - **On the cultural basis of gender differences in negotiation** (Exp Econ 2018) [[paper](https://link.springer.com/content/pdf/10.1007/s10683-017-9547-y.pdf)] (Yufei)
 - **Learning about the opponent in automated bilateral negotiation: a comprehensive survey of opponent modeling techniques** (Auto Agent Multi-Agent System 2016) [[paper](https://link.springer.com/content/pdf/10.1007/s10458-015-9309-1.pdf)] (Yufei)
 - **Toward Natural Turn-Taking in a Virtual Human Negotiation Agent** (AAAI Spring Symposium 2015) [[paper](https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10335/10100)]   (Haolan)
-- **The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper] (https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]  (Haolan & Zhuang)
+- **The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper](https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]  (Haolan & Zhuang)
 - **Comparing The Accuracy of Frequentist and Bayesian Models in Human-Agent Negotiation** (the 21st ACM International Conference on Intelligent Virtual Agents 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3472306.3478354)] (Tao)
 - **Assessing common errors students make when negotiating** (the 19st ACM International Conference on Intelligent Virtual Agents 2019) [[paper](https://dl.acm.org/doi/pdf/10.1145/3308532.3329470)] (Zhuang)
 - **Detecting User’s Likes and Dislikes for a Virtual Negotiating Agent** (ICMI 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243024)]  (Haolan)
