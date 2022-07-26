@@ -27,6 +27,9 @@ This paper collects the first large-scale two-party negotiation dialogue benchma
 ## Methods
 
 - **Opponent Modeling in Negotiation Dialogues by Related Data Adaptation** (NAACL 2022 findings) [[paper](https://arxiv.org/abs/2205.00344)][[code](https://github.com/kushalchawla/opponent-modeling)] (Yufei)
+This paper focuses on modeling the component's preference (i.e.,  the relative importance that the opponent assigns to each issue under discussion) using the partial dialogues. This could be very imporant in the negotiation process in real-world scenario. The authors propose transformer-based ranker over the negotiation items. In addition, they also make use the external dataset, CaSiNo and DealOrNoDeal dialogue data, to construct additional explicty supervision signals for this ranking task. The experiments show that the proposed methods achieve strong performance in zero-shot and
+few-shot settings.
+
 - **Computationally modelling resisting strategies in persuasive conversations** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)][[code](https://github.com/americast/resper)] (Yufei)
 - **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]  (Tao)
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)] (Yufei)
