@@ -5,7 +5,13 @@ Category on the negotiation dialogue papers
 ## Datasets
 
 - **Discourse Structure and Dialogue Acts in Multiparty Dialogue: the STAC Corpus** (LREC 2016) [[paper](https://aclanthology.org/L16-1432.pdf)] [[data](https://aclanthology.org/attachments/D/D15/D15-1109.Attachment.zip)] (Yufei)
+This paper describes the STAC benchmark, which is a corpus of multi-party dialogue annotated with discourse structure in the style of
+SDRT and dialogue act, including offer, counter-offer, acceptance, refusal and other. The main motivation of this benchmark is to better understand the linguistic strategies adopted by players to achieve their conversational goals, especially when their goals are opposed, via the discourse structure in the dialogue.
+
 - **Deal or No Deal? Learning for Negotiation Dialogues** (EMNLP 2017) [[paper](https://arxiv.org/pdf/1706.05125.pdf)] [[data](https://github.com/facebookresearch/end-to-end-negotiator)] (Yufei)
+This paper collects the first large-scale two-party negotiation dialogue benchmark. In the data annotation stage, both annotators are only shown their own sets of items with a value for each and both of them are asked to maximize their total score after negotiation. This paper further proposes an end-to-end dialogue model to learn to response in the negotiation dialogue. For each negotiation dialogue, this paper splits it into two training examples from the perspective of each annotator. Finally, this paper proposes dialogue rollouts, which is to first generate a small number of responses and then similate the future conversation for each candidate. The model selects the candidate outputs with the highest expected reward. The experiments find that dialogue rollouts dramatically improves the output quality.
+
+
 - **Decoupling Strategy and Generation in Negotiation Dialogues** (EMNLP 2018) [[paper](https://aclanthology.org/D18-1256.pdf)] [[data](https://stanfordnlp.github.io/cocoa/)] (Tao)
 -  **A Dynamic Strategy Coach for Effective Negotiation** (SIGDIAL 2019) [[paper](https://aclanthology.org/W19-5943.pdf)] [[data](https://github.com/zhouyiheng11/Negotiation-Coach)] (Tao)
 -  **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)] (Tao)
