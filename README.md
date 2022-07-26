@@ -54,7 +54,7 @@ The major contributions of this work are: i) The definition of face acts, such a
 - **Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies** (ACL 2014) [[paper](https://aclanthology.org/P14-1047.pdf)] (Zhuang)
 - **Reinforcement Learning of Two-Issue Negotiation Dialogue Policies** (SIGDIAL 2013) [[paper](https://aclanthology.org/W13-4016.pdf)]
 - **Grounding Strategic Conversation: Using negotiation dialogues to predict trades in a win-lose game** (EMNLP 2013) [[paper](https://aclanthology.org/D13-1035.pdf)]  (Haolan)
-- **Negotiating causal implicatures** (SIGDIAL 2010) [[paper](https://aclanthology.org/W10-4312.pdf)] (Zhuang)
+- **Negotiating causal implicatures** (SIGDIAL 2010) [[paper](https://aclanthology.org/W10-4312.pdf)] (Zhuang) This work designs a dialogue manager that infers and negotiates causal implicatures, which are unrelated to the negotiation we are referring to.
 
 - **Getting to yes: Negotiating agreement without giving in.** [book]
 - **Reinforcement Learning of Argumentation Dialogue Policies in Negotiation** (INTERSPEECH 2011) [[paper](https://kgeorgila.github.io/publications/georgila_interspeech11.pdf)] (Tao)
