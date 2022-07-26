@@ -59,12 +59,12 @@ The major contributions of this work are: i) The definition of face acts, such a
 This work designs a dialogue manager that infers and negotiates causal implicatures in the dialogues. For example, in this conversation, 
  
 Mary: The chest is locked, the crown is inside
+
 Bill: Give me the crown
+
 Bill causally implicated: Unlock the chest 
 
-The dialogue manager would infer that the chest should be unlocked first to give Bill the crown.
-
-This work seems to be unrelated to the negotiation we are referring to.
+The dialogue manager would infer that the chest should be unlocked first to give Bill the crown. So this work seems to be unrelated to the negotiation we are referring to.
 
 - **Getting to yes: Negotiating agreement without giving in.** [book]
 - **Reinforcement Learning of Argumentation Dialogue Policies in Negotiation** (INTERSPEECH 2011) [[paper](https://kgeorgila.github.io/publications/georgila_interspeech11.pdf)] (Tao)
