@@ -66,6 +66,8 @@ The major contributions of this work are: i) The definition of face acts, such a
 - **Negotiating rationally** (1993, citation>1000) [[paper](https://books.google.com.au/books?hl=zh-CN&lr=&id=Ua7sAgAAQBAJ&oi=fnd&pg=PR7&dq=Negotiating+rationally.+1993&ots=BX50I0akaZ&sig=BXTGdHK9pbyVdeqo4-UXWfQyFjM#v=onepage&q=Negotiating%20rationally.%201993&f=false)]  (Haolan & Tao)
  
 - **Meaning Negotiation in Dialogue** (COLING 1982) [[paper](https://aclanthology.org/C82-2044.pdf)]  (Haolan & Zhuang)
+This paper seems to be not related to the Negotiation we expected. It was discussing a different topic.
+
 - **Negotiation as a Challenge Problem for Virtual Humans** [[paper](https://www.researchgate.net/profile/Jonathan-Gratch-2/publication/282671174_Negotiation_as_a_Challenge_Problem_for_Virtual_Humans/links/561aa3b908aea8036722b651/Negotiation-as-a-Challenge-Problem-for-Virtual-Humans.pdf)]  (Haolan)
 
 ## Evaluation
