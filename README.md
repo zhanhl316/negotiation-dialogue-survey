@@ -41,6 +41,9 @@ few-shot settings.
 
 - **End-to-end trainable non-collaborative dialog system.** (AAAI 2021) [[paper]()]  (Haolan)
 - **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)] (Zhuang)
+Face is an important point in politeness research. It reflects the ‘public self-image’ that every rational adult member of society claims for themselves. This work studies the face acts in persuasion conversations. 
+The major contributions of this work are: i) The definition of face acts, such as the acts that attack one’s face and those acts that raise one’s face. ii) The model that predicts the face acts. iii) The model that predicts the outcomes of the face acts (e.g. donation success).
+
 - **Learning Goal-oriented Dialogue Policy with Opposite Agent Awareness** (AACL 2020) [[paper](https://aclanthology.org/2020.aacl-main.16.pdf)]
 
 - **SOGO: A Social Intelligent Negotiation Dialogue System** (IVA 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3267851.3267880)] (Zhuang)
