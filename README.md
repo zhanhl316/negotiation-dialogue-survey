@@ -12,9 +12,9 @@ SDRT and dialogue act, including offer, counter-offer, acceptance, refusal and o
 This paper collects the first large-scale two-party negotiation dialogue benchmark. In the data annotation stage, both annotators are only shown their own sets of items with a value for each and both of them are asked to maximize their total score after negotiation. This paper further proposes an end-to-end dialogue model to learn to response in the negotiation dialogue. For each negotiation dialogue, this paper splits it into two training examples from the perspective of each annotator. Finally, this paper proposes dialogue rollouts, which is to first generate a small number of responses and then similate the future conversation for each candidate. The model selects the candidate outputs with the highest expected reward. The experiments find that dialogue rollouts dramatically improves the output quality.
 
 
-- **Decoupling Strategy and Generation in Negotiation Dialogues** (EMNLP 2018) [[paper](https://aclanthology.org/D18-1256.pdf)] [[data](https://stanfordnlp.github.io/cocoa/)] (Tao)
--  **A Dynamic Strategy Coach for Effective Negotiation** (SIGDIAL 2019) [[paper](https://aclanthology.org/W19-5943.pdf)] [[data](https://github.com/zhouyiheng11/Negotiation-Coach)] (Tao)
--  **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)] (Tao)
+- **Decoupling Strategy and Generation in Negotiation Dialogues** (EMNLP 2018) [[paper](https://aclanthology.org/D18-1256.pdf)] [[data](https://stanfordnlp.github.io/cocoa/)] (Tao) - Done
+-  **A Dynamic Strategy Coach for Effective Negotiation** (SIGDIAL 2019) [[paper](https://aclanthology.org/W19-5943.pdf)] [[data](https://github.com/zhouyiheng11/Negotiation-Coach)] (Tao) - Done
+-  **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)] (Tao) - Done
 - **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems**  (NAACL 2021) [[paper](https://aclanthology.org/2021.naacl-main.254.pdf)] [[data](https://github.com/kushalchawla/CaSiNo)]  (Zhuang) 
 CaSiNo is a corpus that includes thousand of negotiation dialogues in English. On the one hand, the settings in some negotiation datasets use strict communication protocols, thus failing to capture the richness and diversity in language use. On the other hand, some datasets include more open-ended negotiation dialogues. But the evaluation of negotiation performance is difficult for open-ended dialogues. CaSiNo overcomes the two shortcomings by emulating real-world negotiations while still following a tractable closed-domain abstraction from the negotiation literature. CaSiNo also defines nine negotiation strategies and annotates each utterance with one of the strategies. In addition, CaSiNo proposes a model to automatically predict the strategy for each utterance.
 
@@ -33,7 +33,7 @@ This paper focuses on modeling the component's preference (i.e.,  the relative i
 few-shot settings.
 
 - **Computationally modelling resisting strategies in persuasive conversations** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)][[code](https://github.com/americast/resper)] (Yufei)
-- **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]  (Tao)
+- **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]  (Tao) - Done
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)] (Yufei)
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)] (Yufei)
 - **A deep reinforcement learning-based agent for negotiation with multiple communication channels** (ICTAI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9643383)] [[code]] (Tao)
@@ -67,7 +67,7 @@ Bill causally implicated: Unlock the chest
 The dialogue manager would infer that the chest should be unlocked first to give Bill the crown. So this work seems to be unrelated to the negotiation we are referring to.
 
 - **Getting to yes: Negotiating agreement without giving in.** [book]
-- **Reinforcement Learning of Argumentation Dialogue Policies in Negotiation** (INTERSPEECH 2011) [[paper](https://kgeorgila.github.io/publications/georgila_interspeech11.pdf)] (Tao)
+- **Reinforcement Learning of Argumentation Dialogue Policies in Negotiation** (INTERSPEECH 2011) [[paper](https://kgeorgila.github.io/publications/georgila_interspeech11.pdf)] (Tao) - Done
 - **Arguments, Dialogue, and Negotiation** (Academia 2020) [[paper](https://d1wqtxts1xzle7.cloudfront.net/30687575/AmgoudParsonsMaudetECAI2000-with-cover-page-v2.pdf?Expires=1652160854&Signature=WkneuVUrjuFTPbYNNEVOKVipmvy1~RurCgykDQTzMc70DpdKW~KDnNaqOzQtaedgNlu32XTz0QUAHzMhkFuK7qOkrjoubt6HTpJKo~vi7Sk53tGQsJiiHJd7yxj4~l3zTvovlkQR2EZpT9U9cnLUEDUOM1jeR9ADexEXskVlA-whqaihqkU0md6y0t8pML9dne9GCC6V3xvwcyJTJH2-lpddPxrKqEPnsLkOQP9dXHvl9c7yDZpN6A5qS8JnmqMiCMtlZov~yzaVoVxCvFPyBzY~iEMOxzN9xB30KHUXFRLcAIIThwwe4HpU6C2crRJNGREVNFYnq8-JyFR0siLwmQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]  (Haolan)
 - **Summarizing Multilingual Spoken Negotiation Dialogues** (ACL 2000) [[paper](https://aclanthology.org/P00-1040.pdf)]  (Haolan)
 - **Response Generation in Collaborative Negotiation** (ACL 1995) [[paper](https://aclanthology.org/P95-1019.pdf)] (Yufei)
@@ -96,7 +96,7 @@ This paper seems to be not related to the Negotiation we expected. It was discus
 - **Learning about the opponent in automated bilateral negotiation: a comprehensive survey of opponent modeling techniques** (Auto Agent Multi-Agent System 2016) [[paper](https://link.springer.com/content/pdf/10.1007/s10458-015-9309-1.pdf)] (Yufei)
 - **Toward Natural Turn-Taking in a Virtual Human Negotiation Agent** (AAAI Spring Symposium 2015) [[paper](https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/viewFile/10335/10100)]   (Haolan)
 - **The importance of the agenda in bargaining** (Games and Economic Behavior 1990) [[paper](https://www.tau.ac.il/~fersht/Papers/1990%20The%20importance%20of%20the%20agenda%20in%20bargaining.pdf)]  (Haolan & Zhuang)
-- **Comparing The Accuracy of Frequentist and Bayesian Models in Human-Agent Negotiation** (the 21st ACM International Conference on Intelligent Virtual Agents 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3472306.3478354)] (Tao)
+- **Comparing The Accuracy of Frequentist and Bayesian Models in Human-Agent Negotiation** (the 21st ACM International Conference on Intelligent Virtual Agents 2021) [[paper](https://dl.acm.org/doi/pdf/10.1145/3472306.3478354)] (Tao) - Done
 - **Assessing common errors students make when negotiating** (the 19st ACM International Conference on Intelligent Virtual Agents 2019) [[paper](https://dl.acm.org/doi/pdf/10.1145/3308532.3329470)] (Zhuang)
 - **Detecting User’s Likes and Dislikes for a Virtual Negotiating Agent** (ICMI 2018) [[paper](https://dl.acm.org/doi/pdf/10.1145/3242969.3243024)]  (Haolan)
 
