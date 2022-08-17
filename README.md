@@ -33,6 +33,10 @@ This paper focuses on modeling the component's preference (i.e.,  the relative i
 few-shot settings.
 
 - **Computationally modelling resisting strategies in persuasive conversations** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)][[code](https://github.com/americast/resper)] (Yufei)
+
+This paper focuses on modeling resisting strageties in the persuasive/Negotiation dialogues (i.e., Persuasion4Good and Craigslist Bargain). The authors first propose 7 different resisting strategies from social and cognitive psychology literatures, including Source Derogation, Counter Argument, Personal Choice, Information Inquiry, Self Pity, Hesitance and Self-assertion. This paper further proposes RESPER, a sequence labelling model with BERT and GRU module, that detects the resisting strageties used in each utterance. The paper also finds that incorperating these resisting strageties improves the accuracy for dialogues outcome prediction.
+
+
 - **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]  (Tao) - Done
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)] (Yufei)
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)] (Yufei)
