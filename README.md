@@ -39,6 +39,11 @@ This paper focuses on modeling resisting strageties in the persuasive/Negotiatio
 
 - **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** (ICLR 2021) [[paper](https://openreview.net/pdf?id=kDnal_bbb-E)] [[code](https://github.com/rishabhjoshi/DialoGraph_ICLR21)]  (Tao) - Done
 - **Augmenting non-collaborative dialog systems with explicit semantic and strategic dialog history** (ICLR 2020) [[paper](https://openreview.net/forum?id=ryxQuANKPB)] (Yufei)
+
+  This paper focuses on improving the performance of non-collaborative dialogs by learning Dialog Act and Strategy using finite state transducers (FSTs). Given the dialog history, two classifiers are used to predict Dialog Act and Strategy for each utterance. These predicted Dialog Act and Strategy labels are fed into FSTs. The outcome of FSTs are used as part of inputs to the dialog generator. The experiment results show that incorperating these information successfully improve the generated dialog quality.
+  
+  
+  
 - **Improving Dialog Systems for Negotiation with Personality Modeling** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.56.pdf)] [[code](https://github.com/princeton-nlp/NegotiationToM)] (Yufei)
 - **A deep reinforcement learning-based agent for negotiation with multiple communication channels** (ICTAI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9643383)] [[code]] (Tao)
 - **Towards Emotion-Aware Agents For Negotiation Dialogues** (20219th ICACII) [[paper](https://arxiv.org/pdf/2107.13165.pdf)]  (Haolan)
