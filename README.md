@@ -132,6 +132,9 @@ This paper evaluated the effectiveness of various negotiation strategies. The ev
 - **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)] (Zhuang)
 - **Exploring the Role of Prior Beliefs for Argument Persuasion** (NAACL 2018) [[paper](https://aclanthology.org/N18-1094.pdf)]  (Haolan)
 - **A Corpus for Modeling User and Language Effects in Argumentation on Online Debating** (ACL 2019) [[paper](https://aclanthology.org/P19-1057.pdf)] [[data](https://esdurmus.github.io/ddo.md)]  (Haolan & Zhuang)
+
+Previous work in debating datasets lacks user profiles. This paper proposes datasets including 78 376 debates generated over a 10-year period. The dataset also includes comprehensive user information. Meanwhile, they studied which linguistic and user profile factors influence the debate winning rate most.
+
 - **Analyzing the Persuasive Effect of Style in News Editorial Argumentation** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.287.pdf)] (Haolan & Tao)
 - **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)] (Zhuang)
 - **Persuasion: Theory and research** [[Book](http://www.uky.edu/~ngrant/CJT780/readings/Day%201/cjt780/OKeefe2004.pdf)] 
