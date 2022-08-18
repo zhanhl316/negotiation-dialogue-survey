@@ -20,6 +20,8 @@ CaSiNo is a corpus that includes thousand of negotiation dialogues in English. O
 
 - **Dialogue Act-based Breakdown Detection in Negotiation Dialogues** (EACL 2021) [[paper](https://aclanthology.org/2021.eacl-main.63.pdf)] [[data](https://github.com/gucci-j/negotiation-breakdown-detection)]  (Zhuang)
 
+They build a negotiation dataset in the interview scenario, including 2639 dialogues. They also annotated the dialogue acts for the dialogue and several models to detect the dialogue acts.
+
 
 - **Towards Emotional Support Dialog Systems** (ACL 2021) [[paper](https://aclanthology.org/2021.acl-long.269.pdf)] [[data](https://github.com/thu-coai/Emotional-Support-Conversation)] (Haolan)
 
