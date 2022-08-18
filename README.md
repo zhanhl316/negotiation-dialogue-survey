@@ -126,7 +126,7 @@ This paper evaluated the effectiveness of various negotiation strategies. The ev
 - **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** (Arxiv 2022) [[paper](https://arxiv.org/pdf/2203.07657.pdf)] (Yufei)
 - **Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2021.findings-emnlp.295.pdf)] [[code](https://github.com/wyshi/consistency)]  (Tao)
 - **Understanding User Resistance Strategies in Persuasive Conversations** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2020.findings-emnlp.431.pdf)] (Haolan)
-- **Hierarchical Argumentation Structure for Persuasive Argumentative Dialogue Generation** (IEICE TRANS 2020) [[paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/2/E103.D_2019EDP7147/_pdf)]  (Tao)
+- **Hierarchical Argumentation Structure for Persuasive Argumentative Dialogue Generation** (IEICE TRANS 2020) [[paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/2/E103.D_2019EDP7147/_pdf)]  (Tao) - Done
 - **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)] (Zhuang)
 - **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios] (Tao)
 - **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)] (Zhuang)
