@@ -98,7 +98,7 @@ This paper seems to be not related to the Negotiation we expected. It was discus
 
 ## Evaluation
 
-- **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)] (Yufei & Tao) 
+- **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent** (NAACL 2019) [[paper](https://aclanthology.org/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)] (Yufei & Tao) - Done
 - **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents** (EACL 2017) [[paper](https://aclanthology.org/E17-2077.pdf)] (Zhuang & Haolan)
 
 This paper evaluated the effectiveness of various negotiation strategies. The evaluation is conducted by human subjects communicating with multiple chatbot subjects using different negotiation strategies. The chatbot is learned with deep reinforcement learning. They found that persuasion strategy and a strategy learned with reinforcement learning perform the best.
