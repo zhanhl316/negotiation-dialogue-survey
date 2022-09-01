@@ -128,6 +128,9 @@ This paper evaluated the effectiveness of various negotiation strategies. The ev
 - **Understanding User Resistance Strategies in Persuasive Conversations** (EMNLP-findings 2021) [[paper](https://aclanthology.org/2020.findings-emnlp.431.pdf)] (Haolan)
 - **Hierarchical Argumentation Structure for Persuasive Argumentative Dialogue Generation** (IEICE TRANS 2020) [[paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/2/E103.D_2019EDP7147/_pdf)]  (Tao) - Done
 - **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)] (Zhuang)
+
+A novel task of incorporating empathy when generating persuasive responses. An empathetic persuasive dialogue system by fine-tuning a Maximum Likelihood Estimation (MLE)-based language model in a Reinforcement Learning (RL) framework.
+
 - **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios] (Tao)
 - **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)] (Zhuang)
 - **Exploring the Role of Prior Beliefs for Argument Persuasion** (NAACL 2018) [[paper](https://aclanthology.org/N18-1094.pdf)]  (Haolan)
@@ -137,6 +140,9 @@ Previous work in debating datasets lacks user profiles. This paper proposes data
 
 - **Analyzing the Persuasive Effect of Style in News Editorial Argumentation** (ACL 2020) [[paper](https://aclanthology.org/2020.acl-main.287.pdf)] (Haolan & Tao)
 - **Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing** (ACL 2022) [[paper](https://aclanthology.org/2022.acl-long.599.pdf)] (Zhuang)
+
+An argumentation annotation approach to model the structure of argumentative discourse in student-written business model pitches. Annotated the argument components, argumentative relations and persuasiveness scores.
+
 - **Persuasion: Theory and research** [[Book](http://www.uky.edu/~ngrant/CJT780/readings/Day%201/cjt780/OKeefe2004.pdf)] 
 - **Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions** (WWW 2016) [[paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883081)]  (Haolan)
 - **Perceived effectiveness of interpersonal persuasion strategies in computer-mediated communication** [[paper](https://www.sciencedirect.com/science/article/pii/S0747563203000062)] (Computer Scenario) ( Haolan & Yufei)
