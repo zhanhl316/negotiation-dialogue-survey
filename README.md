@@ -133,6 +133,9 @@ A novel task of incorporating empathy when generating persuasive responses. An e
 
 - **An Item Response Theory Framework for Persuasion** (NAACL-findings 2022) [[paper](https://aclanthology.org/2022.findings-naacl.7.pdf)][[code \& data](https://github.com/akornilo/IRT_Persuasion)] [Education Scenarios] (Tao)
 - **A Study of the Impact of Persuasive Argumentation in Political Debates** (NAACL 2016) [[paper](https://aclanthology.org/N16-1166.pdf)] (Zhuang)
+
+Annotated the Persuasive Argumentation in the corpus of Political Debates. Specifically, they annotated the Semantic Frames, which is the description of context in which a word sense is used. Studied the speaker’s influence on an audience based on his/her persuasiveness language and argumentation styles during a political debate.
+
 - **Exploring the Role of Prior Beliefs for Argument Persuasion** (NAACL 2018) [[paper](https://aclanthology.org/N18-1094.pdf)]  (Haolan)
 - **A Corpus for Modeling User and Language Effects in Argumentation on Online Debating** (ACL 2019) [[paper](https://aclanthology.org/P19-1057.pdf)] [[data](https://esdurmus.github.io/ddo.md)]  (Haolan & Zhuang)
 
