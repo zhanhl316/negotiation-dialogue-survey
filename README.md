@@ -55,7 +55,7 @@ This paper focuses on modeling resisting strageties in the persuasive/Negotiatio
 - **A deep reinforcement learning-based agent for negotiation with multiple communication channels** (ICTAI 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9643383)] [[code]] (Tao)
 - **Towards Emotion-Aware Agents For Negotiation Dialogues** (20219th ICACII) [[paper](https://arxiv.org/pdf/2107.13165.pdf)]  (Haolan)
 
-- **End-to-end trainable non-collaborative dialog system.** (AAAI 2021) [[paper]()]  (Haolan)
+- **End-to-end trainable non-collaborative dialog system.** (AAAI 2021) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6345)]  (Haolan)
 - **Keeping up appearances: Computational modeling of face acts in persuasion oriented discussions.** (EMNLP 2020) [[paper](https://aclanthology.org/2020.emnlp-main.605.pdf)] [[code](https://github.com/ShoRit/face-acts)] (Zhuang)
 Face is an important point in politeness research. It reflects the ‘public self-image’ that every rational adult member of society claims for themselves. This work studies the face acts in persuasion conversations. 
 The major contributions of this work are: i) The definition of face acts, such as the acts that attack one’s face and those acts that raise one’s face. ii) The model that predicts the face acts. iii) The model that predicts the outcomes of the face acts (e.g. donation success).
